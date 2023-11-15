@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(243, 237, 237);
+}
+
+h2 {
+  font-size: 48px;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+  color: blue;
+}
+
+footer {
+  font-family: monospace;
+  font-size: 18px;
+  text-align: center;
+}
